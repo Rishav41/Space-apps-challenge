@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="130px" height="130px" viewBox="0 0 130 130" enable-background="new 0 0 130 130" xml:space="preserve">
+<g id="space">
+	<polygon id="floor" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="111.999,93.056 18.731,93.056 42.595,74.056 
+		86.967,74.056 	"/>
+	<rect id="pillar_6" x="82.896" y="51.556" fill="#E0BF61" width="4" height="23"/>
+	<rect id="pillar_5" x="41.896" y="51.556" fill="#E0BF61" width="5" height="23"/>
+	<polyline id="roof" fill="#F7E1AA" points="86.896,51.556 43.033,51.556 43.01,51.556 4.55,37.696 4.5,37.556 125.354,37.556 
+		125.5,37.417 87.077,51.31 	"/>
+	<polyline id="pillar_4" fill="#E0BF61" points="95.896,80.556 95.896,47.714 92.896,49.028 92.896,78.556 	"/>
+	<polyline id="pillar_3" fill="#E0BF61" points="32.896,81.556 32.896,47.355 36.896,48.753 36.896,78.556 	"/>
+	<line id="pillar_2" fill="none" stroke="#000000" stroke-miterlimit="10" x1="107.396" y1="43.556" x2="107.396" y2="89.556"/>
+	<line id="pillar" fill="none" stroke="#000000" stroke-miterlimit="10" x1="23.396" y1="43.556" x2="23.396" y2="89.556"/>
+	<path id="bulb" fill="#F9F8F7" stroke="#777777" stroke-width="1.3136" stroke-miterlimit="10" d="M58.327,54.899
+		c0.208-4.294,3.035-8.796,7.038-8.796c4.003,0,6.83,4.502,7.038,8.796c-1.816,1.955-4.368,3.071-7.038,3.071
+		S60.143,56.853,58.327,54.899z"/>
+	<path id="ray_3" fill="#E0BF61" d="M66.176,67.983V60.38c0-0.448-0.363-0.811-0.811-0.811s-0.811,0.363-0.811,0.811v7.602
+		c0,0.448,0.363,0.811,0.811,0.811S66.176,68.43,66.176,67.983z"/>
+	<path id="ray_2" fill="#E0BF61" d="M70.911,59.264c0,0.092,0.016,0.186,0.049,0.277l2.599,7.14
+		c0.153,0.421,0.619,0.638,1.039,0.485c0.421-0.153,0.638-0.619,0.485-1.04l-2.598-7.14c-0.153-0.421-0.619-0.638-1.039-0.485
+		C71.116,58.622,70.911,58.933,70.911,59.264z"/>
+	<path id="ray1" fill="#E0BF61" d="M57.171,66.681l2.599-7.14c0.152-0.42-0.064-0.886-0.485-1.04
+		c-0.421-0.153-0.886,0.064-1.04,0.485l-2.599,7.14c-0.033,0.091-0.049,0.185-0.049,0.277c0,0.331,0.205,0.642,0.534,0.762
+		C56.552,67.319,57.018,67.102,57.171,66.681z"/>
+</g>
+</svg>
